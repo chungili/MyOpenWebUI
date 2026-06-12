@@ -1,0 +1,8 @@
+marker-env/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+test.pdf
+*.pdf
